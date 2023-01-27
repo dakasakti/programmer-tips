@@ -14,9 +14,9 @@
 - Focus (Frontend, Backend, not Fullstack)
 - Baca dan Praktekkan (Documentation, Source Code) => changes max 3 file
 - Easy Maintenance, Easy Read
-  - Refactoring by Erich Gamma
+  - Refactoring by Martin Fowler
   - Clean Code by Robert C Martin
-  - Design Pattern by
+  - Design Pattern by Erich Gamma
 - Patient
 - Roadmap (roadmap.sh)
 - Ready to adaptation (The Pragmatic Programmer => softskill)
